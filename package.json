@@ -1,0 +1,12 @@
+{
+  "name": "what-happened",
+  "version": "0.1.0",
+  "description": "Digs into your project's nested dependencies and shows all packages sorted by release date.",
+  "main": "what-happened.js",
+  "author": "Jody Zeitler",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "npm": "~2.1.18"
+  }
+}
